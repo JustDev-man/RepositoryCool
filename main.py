@@ -1,2 +1,2 @@
-Inp = input("Print random word - ")
+Inp = input("Say random word - ")
 print("Here is your random word -", Inp)
